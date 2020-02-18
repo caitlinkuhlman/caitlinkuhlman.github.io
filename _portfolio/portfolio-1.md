@@ -1,6 +1,6 @@
 ---
 title: "MATTERS"
-excerpt: "Massachusetts Technology, Talent, and Economic Reporting System<br/><img src='/images/500x300.png'>"
+excerpt: "Massachusetts Technology, Talent, and Economic Reporting System<br/><img src='/images/matters.png'>"
 collection: portfolio
 ---
 
