@@ -1,0 +1,15 @@
+---
+title: "Evaluating Preference Collection Methods for Interactive Ranking Analytics"
+collection: publications
+permalink: /publication/2019-05-04-Preference-Collection
+excerpt: 'Rankings distill a large number of factors into simple comparative models to facilitate complex decision making. Yet key questions remain in the design of mixed-initiative systems for ranking, in particular how best to collect users&apos; preferences to produce high-quality rankings that users trust and employ in the real world. To address this challenge we evaluate the relative merits of three preference collection methods for ranking in a crowdsourced study. We find that with a categorical binning technique, users interact with a large amount of data quickly, organizing information using broad strokes. Alternative interaction modes using pairwise comparisons or sub-lists result in smaller, targeted input from users. We consider how well each interaction mode addresses design goals for interactive ranking systems. Our study indicates that the categorical approach provides the best value-added benefit to users, requiring minimal effort to create sufficient training data for the underlying ranking algorithm.'
+date: 2019-05-04
+venue: 'ACM Conference on Human Factors in Computing Systems'
+paperurl: 'https://dl.acm.org/authorize?N673729'
+citation: 'Caitlin Kuhlman, Paul-Henry Schoenhagen, MaryAnn VanValkenburg, Diana Doherty, Malika Nurbekova, Goutham Deva, Zarni Phyo, Elke Rundensteiner, Lane Harrison. Evaluating Preference Collection Methods for Interactive Ranking Analytics ACM Conference on Human Factors in Computing Systems (CHI) 2019.'
+---
+Rankings distill a large number of factors into simple comparative models to facilitate complex decision making. Yet key questions remain in the design of mixed-initiative systems for ranking, in particular how best to collect users&apos; preferences to produce high-quality rankings that users trust and employ in the real world. To address this challenge we evaluate the relative merits of three preference collection methods for ranking in a crowdsourced study. We find that with a categorical binning technique, users interact with a large amount of data quickly, organizing information using broad strokes. Alternative interaction modes using pairwise comparisons or sub-lists result in smaller, targeted input from users. We consider how well each interaction mode addresses design goals for interactive ranking systems. Our study indicates that the categorical approach provides the best value-added benefit to users, requiring minimal effort to create sufficient training data for the underlying ranking algorithm.
+
+[Download paper here](https://dl.acm.org/authorize?N673729)
+
+Recommended citation: Caitlin Kuhlman, Paul-Henry Schoenhagen, MaryAnn VanValkenburg, Diana Doherty, Malika Nurbekova, Goutham Deva, Zarni Phyo, Elke Rundensteiner, Lane Harrison. Evaluating Preference Collection Methods for Interactive Ranking Analytics ACM Conference on Human Factors in Computing Systems (CHI) 2019.
